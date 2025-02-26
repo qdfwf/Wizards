@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Unity/Projects/WizardsGit/Packages/manifest.json
+    m_FilePath: D:/GitProjects/WizardsFromGit/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638542484640000000
-    m_Hash: 1286631586
+      ticks: 638761551812089699
+    m_Hash: 80733386
   m_LockFileStatus:
-    m_FilePath: D:/Unity/Projects/WizardsGit/Packages/packages-lock.json
+    m_FilePath: D:/GitProjects/WizardsFromGit/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638542484640000000
-    m_Hash: 2690113593
+      ticks: 638761551812089699
+    m_Hash: 317684602
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/Unity/Projects/WizardsGit/Packages
+m_ProjectPath: D:/GitProjects/WizardsFromGit/Packages
 m_EditorVersion: 2022.3.8f1 (b5eafc012955)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@1.1.5
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.5
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.ai.navigation@1.1.5
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.ai.navigation@1.1.5
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -43,7 +43,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.0-exp.1
     - 1.0.0-exp.2
     - 1.0.0-exp.3
     - 1.0.0-exp.4
@@ -56,6 +55,10 @@ m_ResolvedPackages:
     - 2.0.0-pre.3
     - 2.0.0-pre.4
     - 2.0.0
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
     compatible:
     - 1.1.4
     - 1.1.5
@@ -99,7 +102,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.7
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.cinemachine@2.9.7
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.cinemachine@2.9.7
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -184,6 +187,9 @@ m_ResolvedPackages:
     - 2.9.5
     - 2.9.7
     - 2.10.0
+    - 2.10.1
+    - 2.10.2
+    - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -193,10 +199,16 @@ m_ResolvedPackages:
     - 3.0.0-pre.9
     - 3.0.1
     - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
     compatible:
     - 2.9.5
     - 2.9.7
     - 2.10.0
+    - 2.10.1
+    - 2.10.2
+    - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -206,6 +218,9 @@ m_ResolvedPackages:
     - 3.0.0-pre.9
     - 3.0.1
     - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
     recommended: 2.9.7
     deprecated: []
   dependencies:
@@ -274,7 +289,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.2.0
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.collab-proxy@2.2.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.collab-proxy@2.2.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -362,6 +377,12 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     - 2.3.1
+    - 2.4.3
+    - 2.4.4
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.7.1
     compatible:
     - 2.0.7
     - 2.1.0-preview.3
@@ -370,6 +391,12 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     - 2.3.1
+    - 2.4.3
+    - 2.4.4
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.7.1
     recommended: 2.0.7
     deprecated: []
   dependencies: []
@@ -420,7 +447,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.feature.2d@2.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.feature.2d@2.0.0
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -466,10 +493,14 @@ m_ResolvedPackages:
     version: 9.0.3
   - name: com.unity.2d.common
     version: 8.0.1
-  - name: com.unity.2d.sprite
-    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.8
   - name: com.unity.mathematics
     version: 1.2.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -478,10 +509,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.8
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -538,7 +565,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.24
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.ide.rider@3.0.24
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.ide.rider@3.0.24
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -597,13 +624,17 @@ m_ResolvedPackages:
     - 3.0.26
     - 3.0.27
     - 3.0.28
+    - 3.0.31
+    - 3.0.34
     compatible:
     - 3.0.24
     - 3.0.25
     - 3.0.26
     - 3.0.27
     - 3.0.28
-    recommended: 3.0.28
+    - 3.0.31
+    - 3.0.34
+    recommended: 3.0.34
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -643,7 +674,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.18
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -735,7 +766,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -798,6 +829,8 @@ m_ResolvedPackages:
     - 1.4.2
     - 1.4.3
     - 1.4.4
+    - 1.4.5
+    - 1.4.6
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -818,6 +851,8 @@ m_ResolvedPackages:
     - 1.4.2
     - 1.4.3
     - 1.4.4
+    - 1.4.5
+    - 1.4.6
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -872,7 +907,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -999,6 +1034,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.8
     - 3.2.0-pre.9
     - 3.2.0-pre.10
+    - 3.2.0-pre.11
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -1016,6 +1052,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.8
     - 3.2.0-pre.9
     - 3.2.0-pre.10
+    - 3.2.0-pre.11
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
@@ -1067,7 +1104,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.5
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.timeline@1.7.5
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.timeline@1.7.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1169,6 +1206,7 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     - 1.8.7
+    - 1.8.8
     compatible:
     - 1.7.5
     - 1.7.6
@@ -1180,21 +1218,22 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     - 1.8.7
+    - 1.8.8
     recommended: 1.7.6
     deprecated: []
   dependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
   - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-  - name: com.unity.modules.audio
-    version: 1.0.0
   - name: com.unity.modules.particlesystem
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.director
-    version: 1.0.0
   - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
@@ -1237,7 +1276,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1309,7 +1348,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.0
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.visualscripting@1.9.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.visualscripting@1.9.0
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1350,20 +1389,20 @@ m_ResolvedPackages:
     - 1.7.6
     - 1.7.7
     - 1.7.8
-    - 1.8.0-pre.1
     - 1.8.0
     - 1.9.0
     - 1.9.1
     - 1.9.2
     - 1.9.4
+    - 1.9.5
     compatible:
     - 1.9.0
     - 1.9.1
     - 1.9.2
     - 1.9.4
-    recommended: 1.9.4
-    deprecated:
-    - 1.8.0-pre.1
+    - 1.9.5
+    recommended: 1.9.5
+    deprecated: []
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1410,7 +1449,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1465,7 +1504,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1519,7 +1558,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1574,7 +1613,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1629,7 +1668,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1684,7 +1723,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1743,7 +1782,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1806,7 +1845,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1862,7 +1901,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1917,7 +1956,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1972,7 +2011,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2027,7 +2066,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2082,7 +2121,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2137,7 +2176,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2196,7 +2235,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2251,7 +2290,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2314,7 +2353,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2372,7 +2411,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2427,7 +2466,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2494,7 +2533,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2549,7 +2588,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2612,7 +2651,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2667,7 +2706,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2730,7 +2769,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2793,7 +2832,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2856,7 +2895,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2935,7 +2974,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2994,7 +3033,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3061,7 +3100,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3130,7 +3169,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3185,7 +3224,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3252,7 +3291,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3311,7 +3350,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3382,7 +3421,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.3
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.animation@9.0.3
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.animation@9.0.3
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -3497,6 +3536,7 @@ m_ResolvedPackages:
     - 7.0.13
     - 7.1.0
     - 7.1.1
+    - 7.1.2
     - 8.0.0-pre.3
     - 8.0.0-pre.4
     - 8.0.0
@@ -3514,6 +3554,8 @@ m_ResolvedPackages:
     - 9.0.4
     - 9.1.0
     - 9.1.1
+    - 9.1.2
+    - 9.1.3
     - 10.0.0-pre.1
     - 10.0.0-pre.2
     - 10.0.0
@@ -3523,11 +3565,15 @@ m_ResolvedPackages:
     - 10.1.0
     - 10.1.1
     - 10.1.2
+    - 10.1.3
+    - 10.1.4
     compatible:
     - 9.0.3
     - 9.0.4
     - 9.1.0
     - 9.1.1
+    - 9.1.2
+    - 9.1.3
     recommended: 9.0.4
     deprecated: []
   dependencies:
@@ -3544,10 +3590,14 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.2d.common
     version: 8.0.1
-  - name: com.unity.2d.sprite
-    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.8
   - name: com.unity.mathematics
     version: 1.2.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3556,10 +3606,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.8
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -3600,7 +3646,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.3
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -3683,7 +3729,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 8.0.2
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.psdimporter@8.0.2
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.psdimporter@8.0.2
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -3779,6 +3825,7 @@ m_ResolvedPackages:
     - 9.0.1
     - 9.0.2
     - 9.0.3
+    - 10.0.0
     compatible:
     - 8.0.2
     - 8.0.3
@@ -3787,21 +3834,23 @@ m_ResolvedPackages:
     recommended: 8.0.5
     deprecated: []
   dependencies:
+  - name: com.unity.2d.common
+    version: 8.0.1
+  - name: com.unity.2d.sprite
+    version: 1.0.0
   - name: com.unity.2d.animation
     version: 9.0.1
-  - name: com.unity.2d.common
-    version: 8.0.1
-  - name: com.unity.2d.sprite
-    version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.2d.animation
-    version: 9.0.3
   - name: com.unity.2d.common
     version: 8.0.1
-  - name: com.unity.2d.sprite
-    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.8
   - name: com.unity.mathematics
     version: 1.2.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3810,10 +3859,8 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.8
+  - name: com.unity.2d.animation
+    version: 9.0.3
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -3855,7 +3902,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -3913,7 +3960,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.2
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.spriteshape@9.0.2
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.spriteshape@9.0.2
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -4008,6 +4055,8 @@ m_ResolvedPackages:
     - 9.0.1
     - 9.0.2
     - 9.0.3
+    - 9.0.4
+    - 9.0.5
     - 10.0.0-pre.1
     - 10.0.0-pre.2
     - 10.0.0
@@ -4017,24 +4066,31 @@ m_ResolvedPackages:
     - 10.0.4
     - 10.0.5
     - 10.0.6
+    - 10.0.7
     compatible:
     - 9.0.2
     - 9.0.3
-    recommended: 9.0.3
+    - 9.0.4
+    - 9.0.5
+    recommended: 9.0.5
     deprecated: []
   dependencies:
-  - name: com.unity.mathematics
-    version: 1.1.0
   - name: com.unity.2d.common
     version: 8.0.1
+  - name: com.unity.mathematics
+    version: 1.1.0
   - name: com.unity.modules.physics2d
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.2.6
   - name: com.unity.2d.common
     version: 8.0.1
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
   - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
@@ -4044,10 +4100,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.8
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -4088,7 +4140,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -4161,7 +4213,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.1
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.tilemap.extras@3.1.1
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.tilemap.extras@3.1.1
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -4213,6 +4265,7 @@ m_ResolvedPackages:
     - 2.2.5
     - 2.2.6
     - 2.2.7
+    - 2.2.8
     - 3.0.0
     - 3.0.1
     - 3.0.2
@@ -4220,42 +4273,46 @@ m_ResolvedPackages:
     - 3.1.0
     - 3.1.1
     - 3.1.2
+    - 3.1.3
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     - 4.0.0-pre.3
     - 4.0.0
     - 4.0.1
     - 4.0.2
+    - 4.1.0
+    - 4.2.1
     compatible:
     - 3.1.1
     - 3.1.2
-    recommended: 3.1.2
+    - 3.1.3
+    recommended: 3.1.3
     deprecated: []
   dependencies:
-  - name: com.unity.modules.tilemap
+  - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.2d.tilemap
     version: 1.0.0
-  - name: com.unity.ugui
+  - name: com.unity.modules.tilemap
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.uielements
+  - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-  - name: com.unity.modules.jsonserialize
+  - name: com.unity.2d.tilemap
     version: 1.0.0
-  - name: com.unity.ugui
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
     version: 1.0.0
   keywords:
   - 2d
@@ -4290,7 +4347,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.aseprite@1.0.0
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.aseprite@1.0.0
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -4317,6 +4374,12 @@ m_ResolvedPackages:
     - 1.1.2
     - 1.1.3
     - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.2.0
+    - 1.2.1
     compatible:
     - 1.0.0
     - 1.0.1
@@ -4325,24 +4388,32 @@ m_ResolvedPackages:
     - 1.1.2
     - 1.1.3
     - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
     recommended: 1.0.1
     deprecated: []
   dependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
   - name: com.unity.2d.common
     version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.animation
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
   - name: com.unity.2d.common
     version: 8.0.1
+  - name: com.unity.burst
+    version: 1.8.8
   - name: com.unity.mathematics
     version: 1.2.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -4351,10 +4422,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.8
   keywords:
   - 2d
   - Aseprite
@@ -4392,7 +4459,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 8.0.1
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.2d.common@8.0.1
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.2d.common@8.0.1
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -4444,6 +4511,7 @@ m_ResolvedPackages:
     - 6.0.5
     - 6.0.6
     - 6.0.7
+    - 6.0.8
     - 7.0.0-pre.3
     - 7.0.0-pre.4
     - 7.0.0
@@ -4455,6 +4523,8 @@ m_ResolvedPackages:
     - 8.0.0
     - 8.0.1
     - 8.0.2
+    - 8.0.3
+    - 8.0.4
     - 9.0.0-pre.1
     - 9.0.0-pre.2
     - 9.0.0
@@ -4463,27 +4533,35 @@ m_ResolvedPackages:
     - 9.0.3
     - 9.0.4
     - 9.0.5
+    - 9.0.6
+    - 9.0.7
     compatible:
     - 8.0.1
     - 8.0.2
-    recommended: 8.0.2
+    - 8.0.3
+    - 8.0.4
+    recommended: 8.0.4
     deprecated: []
   dependencies:
+  - name: com.unity.burst
+    version: 1.7.3
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
     version: 1.1.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
   - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-  - name: com.unity.burst
-    version: 1.7.3
-  resolvedDependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.2.6
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -4492,10 +4570,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.8
   keywords:
   - 2d
   registry:
@@ -4529,7 +4603,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4605,7 +4679,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.4
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.collections@1.2.4
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.collections@1.2.4
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -4687,7 +4761,12 @@ m_ResolvedPackages:
     - 2.4.0
     - 2.4.1
     - 2.4.2
+    - 2.4.3
     - 2.5.0-exp.1
+    - 2.5.0-pre.2
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
     compatible:
     - 1.2.4
     - 1.3.1
@@ -4759,7 +4838,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.8
   source: 1
-  resolvedPath: D:\Unity\Projects\WizardsGit\Library\PackageCache\com.unity.burst@1.8.8
+  resolvedPath: D:\GitProjects\WizardsFromGit\Library\PackageCache\com.unity.burst@1.8.8
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4906,6 +4985,9 @@ m_ResolvedPackages:
     - 1.8.14
     - 1.8.15
     - 1.8.16
+    - 1.8.17
+    - 1.8.18
+    - 1.8.19
     compatible:
     - 1.8.8
     - 1.8.9
@@ -4916,7 +4998,10 @@ m_ResolvedPackages:
     - 1.8.14
     - 1.8.15
     - 1.8.16
-    recommended: 1.8.16
+    - 1.8.17
+    - 1.8.18
+    - 1.8.19
+    recommended: 1.8.19
     deprecated: []
   dependencies:
   - name: com.unity.mathematics

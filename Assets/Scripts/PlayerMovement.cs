@@ -134,7 +134,7 @@ public class PlayerMovement : MonoBehaviour
     {
         facingRight = !facingRight;
         Vector3 scale = transform.localScale;
-        scale.x *= -1; // Инвертируем масштаб по оси X
+        scale.z *= -1; // Инвертируем масштаб по оси X
         transform.localScale = scale;
         Debug.Log("Character flipped. Facing right: " + facingRight);
     }
